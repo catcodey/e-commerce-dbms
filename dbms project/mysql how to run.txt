@@ -1,0 +1,7 @@
+mysql open
+MYSQL
+\sql
+\connect root@localhost
+show databases;
+use database;
+show tables;
